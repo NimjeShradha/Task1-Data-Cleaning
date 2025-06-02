@@ -1,0 +1,11 @@
+Here is a short summary of how i cleaned the Raw Data 
+1) I have used the Sample Sales Data for Cleaning using MS Excel
+2) Checked for the Duplicate values if any, There were none in the Dataset.
+3) Filled the missing values with 0/Unknown and Removed errors.
+4) Merged cells (First Name & Last Name) Renamed as Contact Person
+5) Merged ce8)lls (City & State) Renamed as City&State.
+6) Merged cells (Address 1 & address 2
+7) Change Data type of Date as Date & Time, Phone Number to Whole Number.
+8) Converted date format to dd-mm-yyyy.
+9) Renamed all Column Headers to Lowercase using Underscore to separate the words.
+10) Verified and fixed datatypes for all Column Headers.
